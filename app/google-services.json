@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23735428650",
+    "project_id": "dynamiclinks-demo-f7c02",
+    "storage_bucket": "dynamiclinks-demo-f7c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23735428650:android:eab0825d0ddc1966680553",
+        "android_client_info": {
+          "package_name": "com.internship.dynamiclinksdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23735428650-2gdsh62gdkcg0c7auku85r0ph3ao2a2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1oc9zHCGPu8cfheqcYIRVR5M2Eajf1hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23735428650-2gdsh62gdkcg0c7auku85r0ph3ao2a2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
